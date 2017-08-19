@@ -18,7 +18,7 @@ Python 2.x is required to run this project. The source code files are needed, an
  
 ### Directions for Obtaining and Executing the Code
 
-Download or clone the movie-website-project directory from Github. The repository can be found [here](https://github.com/sherribooher/nanodegree-projects.git). &nbsp; _If you downloaded the .zip file, extract the directory and all files to your local computer._
+Download or clone the movie-website-project directory from Github. The repository can be found [here](https://github.com/sherribooher/movie-trailer-website.git). &nbsp; _If you downloaded the .zip file, extract the directory and all files to your local computer._
 
 Open the command line interface on your computer (_Terminal on MacOS and Linux, Command Prompt on Windows_).
 
